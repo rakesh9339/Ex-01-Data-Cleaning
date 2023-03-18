@@ -59,7 +59,8 @@ df['LoanAmount']
 ![Screenshot 2023-03-19 013023](https://user-images.githubusercontent.com/121115650/226135794-475a24db-4674-461d-9979-63d65aede8a0.png)
 ![Screenshot 2023-03-19 013033](https://user-images.githubusercontent.com/121115650/226135811-fa9b5666-1beb-4143-8818-30b4daa117a8.png)
 
-
+# Result
+Thus the given data is read,cleansed and cleaned data is saved into the file.
 
 
 
